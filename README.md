@@ -58,5 +58,3 @@ Based on the current dashboard values:
 - Readmission rate: 10.5%
 
 The dashboards also display patient outcomes and monthly trends to support further analysis.
-
-*Note: These
